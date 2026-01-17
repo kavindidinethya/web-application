@@ -1,0 +1,1 @@
+console.log("Phone Shop loaded successfully");
